@@ -1,7 +1,7 @@
 ### Dell PowerEdge Server metrics exposed
 
 #### Related Exporters or Integrations
-- [ansible-role-OS-bootstrap](https://github.com/goldstrike77/ansible-role-OS-bootstrap)
+- [dellhw_exporter](https://github.com/galexrt/dellhw_exporter)
 
 #### Exporter collectors enabled by default
 
