@@ -70,11 +70,8 @@ node_NIC_Receive|Linux,Windows|warning|Has more than 300M receive.
 node_NIC_Transmit|Linux,Windows|warning|Has more than 300M traffic.
 node_Service|Linux,Windows|warning|Service has been stoped.
 
-#### Reference third-party Ansible role for RHEL/CentOS
+#### Reference third-party Ansible role for RHEL/CentOS/Windows
 - [ansible-role-OS-bootstrap](https://github.com/goldstrike77/ansible-role-OS-bootstrap)
-- [ansible-role-OS-consul](https://github.com/goldstrike77/ansible-role-OS-consul)
-- [ansible-role-linux-prometheus](https://github.com/goldstrike77/ansible-role-linux-prometheus)
-- [ansible-role-linux-grafana](https://github.com/goldstrike77/ansible-role-linux-grafana)
 
 #### Recommendation Grafana Dashboards
 - Cross Server Graphs | [json](https://raw.githubusercontent.com/goldstrike77/ansible-role-linux-grafana/master/files/dashboards/Universal/Cross_Server_Graphs.json) | [png](https://raw.githubusercontent.com/goldstrike77/Screenshots/master/Grafana/Universal/Cross_Server_Graphs.png)

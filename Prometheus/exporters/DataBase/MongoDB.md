@@ -24,10 +24,7 @@ MongoDB_VirtualMemory_Usage|warning|High memory usage.
 
 
 #### Reference third-party Ansible role for RHEL/CentOS
-- [ansible-role-OS-consul](https://github.com/goldstrike77/ansible-role-OS-consul)
-- [ansible-role-linux-prometheus](https://github.com/goldstrike77/ansible-role-linux-prometheus)
 - [ansible-role-linux-mongodb](https://github.com/goldstrike77/ansible-role-linux-mongodb)
-- [ansible-role-linux-grafana](https://github.com/goldstrike77/ansible-role-linux-grafana)
 
 #### Recommendation Grafana Dashboards
 - MongoDB Overview | [json](https://raw.githubusercontent.com/goldstrike77/ansible-role-linux-grafana/master/files/dashboards/Databases/MongoDB_Overview.json) | [png](https://raw.githubusercontent.com/goldstrike77/Screenshots/master/Grafana/Databases/MongoDB_Overview.png)

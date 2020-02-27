@@ -44,9 +44,6 @@ Inlet_Temperature|critical|Temperatures has exceeded the threshold.
 
 #### Reference third-party Ansible role for RHEL/CentOS
 - [ansible-role-OS-bootstrap](https://github.com/goldstrike77/ansible-role-OS-bootstrap)
-- [ansible-role-OS-consul](https://github.com/goldstrike77/ansible-role-OS-consul)
-- [ansible-role-linux-prometheus](https://github.com/goldstrike77/ansible-role-linux-prometheus)
-- [ansible-role-linux-grafana](https://github.com/goldstrike77/ansible-role-linux-grafana)
 
 #### Recommendation Grafana Dashboards
 - Dell PowerEdge | [json](https://raw.githubusercontent.com/goldstrike77/ansible-role-linux-grafana/master/files/dashboards/Cloud/Dell_PowerEdge.json) | [png](https://raw.githubusercontent.com/goldstrike77/Screenshots/master/Grafana/Cloud/Dell_PowerEdge.png)

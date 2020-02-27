@@ -41,11 +41,7 @@ MySQL_Rep_Lag|warning|The mysql slave replication has fallen behind and is not r
 MySQL_InnoDB_Log_Waits|warning|The innodb logs are waiting for disk.
 
 #### Reference third-party Ansible role for RHEL/CentOS
-- [ansible-role-OS-bootstrap](https://github.com/goldstrike77/ansible-role-OS-bootstrap)
-- [ansible-role-OS-consul](https://github.com/goldstrike77/ansible-role-OS-consul)
-- [ansible-role-linux-prometheus](https://github.com/goldstrike77/ansible-role-linux-prometheus)
 - [ansible-role-linux-mysql](https://github.com/goldstrike77/ansible-role-linux-mysql)
-- [ansible-role-linux-grafana](https://github.com/goldstrike77/ansible-role-linux-grafana)
 
 #### Recommendation Grafana Dashboards
 - MySQL InnoDB Metrics | [json](https://raw.githubusercontent.com/goldstrike77/ansible-role-linux-grafana/master/files/dashboards/Databases/MySQL_InnoDB_Metrics.json) | [png](https://raw.githubusercontent.com/goldstrike77/Screenshots/master/Grafana/Databases/MySQL_InnoDB_Metrics.png)
