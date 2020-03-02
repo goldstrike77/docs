@@ -11,7 +11,6 @@ database|Collection of Database metrics.
 indexusage|Collection of per index usage stats.
 topmetrics|Collection of table top metrics.
 
-
 #### Alert rules
 Name|Severity|Description
 -|-|-
@@ -20,8 +19,6 @@ MongoDB_Rep_Lag|warning|Replication lag is more than 60 seconds.
 MongoDB_Cursors_Num|warning|Too many cursors opened clients.
 MongoDB_Cursors_Timeout|warning|Too many cursors are timing.
 MongoDB_Connections|warning|Too many connections.
-MongoDB_VirtualMemory_Usage|warning|High memory usage.
-
 
 #### Reference third-party Ansible role for RHEL/CentOS
 - [ansible-role-linux-mongodb](https://github.com/goldstrike77/ansible-role-linux-mongodb)
