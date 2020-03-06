@@ -11,7 +11,7 @@ default|Default metrics supplied
 #### Alert rules
 Name|Severity|Description
 -|-|-
-Targets Health|critical|Endpoint has been unreachable.
+graylog_Journal_Utilization|critical|The message journal store utilization ratio has more than 90%.
 
 #### Reference third-party Ansible role for RHEL/CentOS
 - [ansible-role-linux-graylog](https://github.com/goldstrike77/ansible-role-linux-graylog)
